@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\project_phase1\NewSchoolProject\bin\Debug\net5.0\NewSchoolProject.exe
+C:\Users\DELL\Desktop\project_phase1\NewSchoolProject\bin\Debug\net5.0\NewSchoolProject.deps.json
+C:\Users\DELL\Desktop\project_phase1\NewSchoolProject\bin\Debug\net5.0\NewSchoolProject.runtimeconfig.json
+C:\Users\DELL\Desktop\project_phase1\NewSchoolProject\bin\Debug\net5.0\NewSchoolProject.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\project_phase1\NewSchoolProject\bin\Debug\net5.0\NewSchoolProject.dll
+C:\Users\DELL\Desktop\project_phase1\NewSchoolProject\bin\Debug\net5.0\ref\NewSchoolProject.dll
+C:\Users\DELL\Desktop\project_phase1\NewSchoolProject\bin\Debug\net5.0\NewSchoolProject.pdb
+C:\Users\DELL\Desktop\project_phase1\NewSchoolProject\obj\Debug\net5.0\NewSchoolProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\project_phase1\NewSchoolProject\obj\Debug\net5.0\NewSchoolProject.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\project_phase1\NewSchoolProject\obj\Debug\net5.0\NewSchoolProject.AssemblyInfo.cs
+C:\Users\DELL\Desktop\project_phase1\NewSchoolProject\obj\Debug\net5.0\NewSchoolProject.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\project_phase1\NewSchoolProject\obj\Debug\net5.0\NewSchoolProject.dll
+C:\Users\DELL\Desktop\project_phase1\NewSchoolProject\obj\Debug\net5.0\ref\NewSchoolProject.dll
+C:\Users\DELL\Desktop\project_phase1\NewSchoolProject\obj\Debug\net5.0\NewSchoolProject.pdb
+C:\Users\DELL\Desktop\project_phase1\NewSchoolProject\obj\Debug\net5.0\NewSchoolProject.genruntimeconfig.cache
